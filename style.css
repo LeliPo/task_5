@@ -1,0 +1,32 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#btnLess {
+    background-color: rgb(112, 0, 0);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    border-radius: 20px 0px 0px 20px;
+}
+
+#btnOver {
+    background-color: rgb(79, 54, 192);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    border-radius: 0px 20px 20px 0px;
+}
+
+#btnEqual {
+    background-color: rgb(39, 190, 16);
+    font-family: 'Arial Black', Gadget, sans-serif;
+}
+#answerField {
+    font-family: 'Arial Black', Gadget, sans-serif;
+}
+
+#btnRetry {
+    color:rgb(177, 37, 140);
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 1.4em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
